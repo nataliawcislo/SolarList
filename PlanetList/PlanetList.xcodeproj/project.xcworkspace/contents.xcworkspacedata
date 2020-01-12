@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <Group
+      location = "group:/Users/nataliawcislo/Documents/PlanetList/PlanetList/planet"
+      name = "planet">
+      <FileRef
+         location = "group:P12.png">
+      </FileRef>
+      <FileRef
+         location = "group:P13.png">
+      </FileRef>
+      <FileRef
+         location = "group:P11.png">
+      </FileRef>
+      <FileRef
+         location = "group:P10.png">
+      </FileRef>
+      <FileRef
+         location = "group:P9.png">
+      </FileRef>
+      <FileRef
+         location = "group:P8.png">
+      </FileRef>
+      <FileRef
+         location = "group:background.jpg">
+      </FileRef>
+      <FileRef
+         location = "group:P3.png">
+      </FileRef>
+      <FileRef
+         location = "group:P2.png">
+      </FileRef>
+      <FileRef
+         location = "group:P1.png">
+      </FileRef>
+      <FileRef
+         location = "group:P4.png">
+      </FileRef>
+      <FileRef
+         location = "group:P6.png">
+      </FileRef>
+      <FileRef
+         location = "group:P7.png">
+      </FileRef>
+      <FileRef
+         location = "group:Launch.jpg">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
